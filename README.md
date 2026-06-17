@@ -24,7 +24,7 @@ Here are some of the tools and technologies I use:
 Below are my dynamic GitHub statistics:
 
 ![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad75012&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad75012&layout=compact&theme=tokyonight)## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad75012&layout=compact&theme=tokyonight)
 
 <!--
 **muhammad75012/muhammad75012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
